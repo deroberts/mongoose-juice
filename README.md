@@ -1,4 +1,4 @@
-# Social Media API Readme
+# Mongoose Juice: Social Media API Readme
 
 ## Description
 
