@@ -20,3 +20,7 @@ POST and DELETE routes for reactions to thoughts and adding/removing friends to 
 
 ## Screenshot
 
+![Screenshot 2023-02-08 140609](https://user-images.githubusercontent.com/112577325/217639926-c09eb485-685a-4291-9b8b-a612fd411f77.png)
+
+![Screenshot 2023-02-08 140531](https://user-images.githubusercontent.com/112577325/217639940-c39cdec4-a5d6-40d5-a4a7-1eab1b548724.png)
+
